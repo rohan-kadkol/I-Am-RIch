@@ -1,6 +1,6 @@
 # I Am Rich
 
-This is a Flutter app I worked on following the starter code from the Flutter Udemy course by Angela Yu.
+This is a Flutter app I worked on following the starter code from the [Flutter Udemy course by Angela Yu](https://www.udemy.com/course/flutter-bootcamp-with-dart/).
 
 It just displays an image of a diamond.
 
