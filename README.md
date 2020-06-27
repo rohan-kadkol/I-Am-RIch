@@ -1,16 +1,14 @@
-# i_am_rich_2
+# I Am Rich
 
-A new Flutter application.
+This is a Flutter app I worked on following the starter code from the Flutter Udemy course by Angela Yu.
 
-## Getting Started
+It just displays an image of a diamond.
 
-This project is a starting point for a Flutter application.
+Skills learned:
 
-A few resources to get you started if this is your first Flutter project:
+1. General feel of Flutter
+2. Using NetworkImage and AssetImage
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshot
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="images/screenshot.png">
